@@ -1,4 +1,4 @@
-# template
+# Project Template
 This is a project template
 
 This link provides a project with dependencies using 
