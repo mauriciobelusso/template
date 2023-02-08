@@ -2,7 +2,7 @@
 This is a project template
 
 This link provides a project with dependencies using 
-[Spring Initializr](https://start.spring.io/#!type=gradle-project&language=java&platformVersion=2.7.8&packaging=jar&jvmVersion=17&groupId=mauriciobelusso.com.github&artifactId=template-name&name=template-name&description=Demo%20project%20for%20Spring%20Boot&packageName=mauriciobelusso.com.github.template-name&dependencies=web,devtools,lombok,configuration-processor,security,data-jpa,flyway,h2,actuator,prometheus,restdocs,postgresql)
+[Spring Initializr](https://start.spring.io/#!type=gradle-project&language=java&platformVersion=2.7.8&packaging=jar&jvmVersion=17&groupId=mauriciobelusso.com.github&artifactId=template-name&name=template-name&description=Demo%20project%20for%20Spring%20Boot&packageName=mauriciobelusso.com.github.template-name&dependencies=web,devtools,lombok,configuration-processor,security,data-jpa,flyway,h2,actuator,prometheus,restdocs,postgresql,validation)
 
 # Dependencies
 ## Web
@@ -36,3 +36,6 @@ This link provides a project with dependencies using
 ## Testing
 ### Spring REST Docs
 - Document RESTful services by combining hand-written with Asciidoctor and auto-generated snippets produced with Spring MVC Test.
+## I/O
+### Validation
+- Bean Validation with Hibernate validator.
